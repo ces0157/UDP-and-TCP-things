@@ -2,9 +2,9 @@
 This is just showcasing the basic UDP and TCP assigments I did in my Computer Networks Class. TCP Client sends info to TCP server and vice versa. The same goes with UDP. 
 
 # Compiling and Running
-First use javac to compile all the files. For TCP and UDP server Client Files enter:
+First use javac to compile all the files. For TCP and UDP Client Files enter:
 
-java fileName servername number port#
+java fileName servername number_to_be_sent port#
 
 For TCP and UDP Server enter:
 
